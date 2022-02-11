@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou Fabio!
-- 🌱 Atualmente estou aprendendo **Python3 and Java**.
+- 🌱 Atualmente estou aprendendo **Python3 e Java**.
 
 <!---
 fabioskb/fabioskb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
