@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou Fabio!
+- 👋 Oi, sou Fabio!
 - 🌱 Atualmente estou aprendendo **Python3 e Java**.
 
 <!---
