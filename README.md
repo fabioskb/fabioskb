@@ -1,5 +1,5 @@
 - 👋 Oi, sou Fabio!
-- 🌱 **Python3**
+- **Python3**
 - **Java**
 - **Shell Script**
 
